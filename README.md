@@ -18,6 +18,10 @@ Basta executar o arquivo main.py utilizando o interpretador Python. Será gerado
 
 Encontrar e adicionar a análise dados mais recentes. Adicionar mais funcionalidades a ferramente, como outros tipos de regressão e análise preditiva.
 
+## Dicas e sugestões
+
+Caso queira dar qualquer dica, sugestão ou crítica construtiva, o email para contato é: lucaspaiva280@gmail.com
+
 ### Patch notes
 
 - 1.0.0: Ferramenta lançada.
